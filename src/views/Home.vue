@@ -16,10 +16,6 @@ export default {
             title: "Home title",
             meta: [
                 { name: 'description', content:  'Home description'},
-                { property: 'og:title', content: "Epiloge - Build your network in your field of interest"},
-                { property: 'og:site_name', content: 'Epiloge'},
-                {property: 'og:type', content: 'website'},    
-                {name: 'robots', content: 'index,follow'} 
             ]
       }
     }
